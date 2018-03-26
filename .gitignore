@@ -110,3 +110,7 @@ ENV/
 # data
 data/faces/
 data/news_data/
+processed_data/
+raw_data/
+data/websites_test_sessions.csv
+data/websites_train_sessions.csv
